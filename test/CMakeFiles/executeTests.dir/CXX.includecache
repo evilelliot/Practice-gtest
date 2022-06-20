@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocaranza/Documentos/C++/Mygtest/src/consts.cpp
+consts.hpp
+/home/ocaranza/Documentos/C++/Mygtest/src/consts.hpp
+string
+-
+
+/home/ocaranza/Documentos/C++/Mygtest/src/consts.hpp
+string
+-
+

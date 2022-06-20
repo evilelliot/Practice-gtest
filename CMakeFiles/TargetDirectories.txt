@@ -1,0 +1,3 @@
+/home/ocaranza/Documentos/C++/Mygtest/CMakeFiles/rebuild_cache.dir
+/home/ocaranza/Documentos/C++/Mygtest/CMakeFiles/edit_cache.dir
+/home/ocaranza/Documentos/C++/Mygtest/CMakeFiles/Mygtest.dir

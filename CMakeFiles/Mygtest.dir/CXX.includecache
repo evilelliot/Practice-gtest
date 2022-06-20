@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocaranza/Documentos/C++/Mygtest/main.cpp
+iostream
+-
+src/names.hpp
+/home/ocaranza/Documentos/C++/Mygtest/src/names.hpp
+
+/home/ocaranza/Documentos/C++/Mygtest/src/names.hpp
+string
+-
+iostream
+-
+
